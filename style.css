@@ -1,0 +1,140 @@
+/*body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOowPT8qvwKHW73HOnMEW51wXR7eCjyVs5egiB6f3YVd05Gmp-Arw5CrOcDeb9rRBTx_I2yYA9oKKwDRjwgfuua8CcWbfemfhf7g_MiqM&s");
+    background-size: stretch;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.title {
+    color:blue;
+}*/
+
+/*body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+.box1 {
+    COLOR: red;
+}
+
+.box2 {
+    color: #ff0000;
+}
+
+.box3 {
+    color: rgb(255, 0, 0);
+}
+
+.box4{
+    color: rgba(255, 0, 0, 0.5);
+}*/
+
+/*TEXT PROPERTIES*/
+
+/*p {
+    color: darkblue;
+
+    text-align : center;
+
+    text-decoration: underline;
+
+    text-transform: uppercase;
+
+    letter-spacing: 2px;
+
+    word-spacing: 5px;
+
+    line-height: 1.8;
+}*/
+
+/*body {
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}*/
+
+/*container*/
+
+/*.container {
+    display: flex;
+    flex-direction: column;
+    flex-direction: row-reverse;
+    flex-direction: row;
+
+
+    border: 3px solid black;
+    padding: 20px;
+}
+
+.box{
+    background-color: lightblue;
+    border:2px solid blue;
+
+    padding: 30px;
+    margin: 10px;
+}*/
+
+/* color wraping*/
+
+/*.container{
+    display: flex;
+    
+    flex-wrap: nowrap;
+    /* nowrap
+    wrap
+    wrap-reverse*/
+
+   /* width: 600px;
+
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.box{
+    width: 150px;
+    background-color: lightcoral;
+    border:2px solid red;
+
+    padding: 30px;
+    box-sizing:border-box;
+    margin: 5px;
+}*/
+
+
+/*stretch*/
+
+
+/*.container{
+    display: flex;
+    
+    align-items: center;
+    /* stretch
+    flex-start
+    center
+    flex-end*/
+
+  /* height: 300px;
+
+    border: 3px solid black;
+}
+
+.box{
+    width: 150px;
+    background-color: lightpink;
+    border:2px solid deeppink;
+
+    padding: 30px;
+    margin: 10px;
+}*/
+
+
+
+.col {
+    background-color: lightblue;
+    border: 2px solid blue;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+}
